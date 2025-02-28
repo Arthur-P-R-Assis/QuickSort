@@ -1,1 +1,1 @@
-A social media organizer with quick charge.
+A social media organizer with quicksort.
